@@ -6,8 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de768474-53d8-42c3-b7b4-e5be21c25500" name="Default Changelist" comment="创建">
+    <list default="true" id="de768474-53d8-42c3-b7b4-e5be21c25500" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/erp/pojo/CodeCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/erp/pojo/CodeCounter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/xiameng" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../er" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -198,7 +199,7 @@
       <workItem from="1578665705735" duration="104000" />
       <workItem from="1578665835129" duration="2099000" />
       <workItem from="1578668000582" duration="264000" />
-      <workItem from="1578669027479" duration="2177000" />
+      <workItem from="1578669027479" duration="2579000" />
     </task>
     <task id="LOCAL-00001" summary="删除注释">
       <created>1578667096466</created>
@@ -221,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578670329500</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="main">
+      <created>1578671313740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578671313740</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,7 +286,8 @@
     <MESSAGE value="删除注释" />
     <MESSAGE value="修改包名" />
     <MESSAGE value="创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建" />
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="22" key="#Project_Structure" timestamp="1578457025946">
@@ -309,18 +318,18 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.720@0.0.1280.720" timestamp="1578457008799" />
-    <state x="228" y="0" key="CommitChangelistDialog2" timestamp="1578670866627">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578671312952">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="228" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1578670866627" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1578671312952" />
     <state x="100" y="100" width="1080" height="527" key="DiffContextDialog" timestamp="1578670526815">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="100" y="100" width="1080" height="527" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1578670526815" />
-    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1578670554755">
+    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1578671513779">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578670554755" />
+    <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578671513779" />
     <state x="517" y="256" width="270" height="263" key="Github.ShareDialog" timestamp="1578670065808">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -389,14 +398,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="100" y="100" width="1080" height="527" key="VCS.FileHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1578667301624" />
-    <state x="292" y="121" key="Vcs.Push.Dialog.v2" timestamp="1578670528751">
+    <state x="292" y="121" key="Vcs.Push.Dialog.v2" timestamp="1578671589265">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="292" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1578670528751" />
-    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578671233634">
+    <state x="292" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1578671589265" />
+    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578671617130">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1578671233634" />
+    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1578671617130" />
     <state x="39" y="0" width="746" height="720" key="find.popup" timestamp="1578669427768">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
