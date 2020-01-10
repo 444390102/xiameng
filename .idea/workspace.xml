@@ -7,245 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de768474-53d8-42c3-b7b4-e5be21c25500" name="Default Changelist" comment="创建">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/erp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/erp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/erp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/erp/erp.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/dao/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/dao/MaterialManaDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/dao/impl/MaterialManaDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/page/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/page/MainPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/page/MaterialManaPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/service/MaterialManaService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/service/impl/MaterialManaServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/util/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/util/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/util/RoleFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/web/BaseServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/com/erp/web/LoginAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/CodeCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Column.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/DColumn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/DSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/DelivColumn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/DelivCost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/DelivMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/DelivPic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/FreightClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/FreightUnitPrice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/HostWeight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/MColumn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Material.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/MaterialMana.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Model.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Search.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/SubOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/erp/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/dao/MaterialManaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/dao/impl/MaterialManaDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/page/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/page/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/page/MaterialManaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/CodeCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/DColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/DSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/DelivColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/DelivCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/DelivMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/DelivPic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/FreightClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/FreightUnitPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/HostWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/MColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/Material.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/MaterialMana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/SubOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/service/MaterialManaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/service/impl/MaterialManaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/util/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/util/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/util/RoleFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/web/BaseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/erp/web/LoginAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/ace-ie.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/ace-part2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/ace-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/ace-skins.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/ace.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-colorpicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-datepicker3.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-datetimepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-duallistbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-editable.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-multiselect.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap-timepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/chosen.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/colorbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/daterangepicker.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/dropzone.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/fonts.googleapis.com.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/fullcalendar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/images/meteorshower2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/images/pattern.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/jquery-ui.custom.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/jquery.gritter.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/prettify.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/css/ui.jqgrid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/font-awesome/4.5.0/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/avatar1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/avatar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/avatar3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/avatar4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/avatar5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/profile-pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/avatars/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/bootstrap-colorpicker/alpha-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/bootstrap-colorpicker/alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/bootstrap-colorpicker/hue-horizontal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/bootstrap-colorpicker/hue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/bootstrap-colorpicker/saturation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/email/email1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/email/email2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/email/email3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/email/email4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/image-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/image-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/image-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/image-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/image-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/image-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/thumb-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/thumb-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/thumb-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/thumb-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/thumb-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/gallery/thumb-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/placeholder/165x90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/placeholder/255x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/placeholder/530x270.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/images/placeholder/550x280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/ace-editable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/ace-elements.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/ace-extra.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/ace.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/autosize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-colorpicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-datepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-datetimepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-editable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-markdown.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-multiselect.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-tag.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-timepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap-wysiwyg.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/buttons.colVis.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/buttons.flash.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/buttons.html5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/buttons.print.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/chosen.jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/dataTables.buttons.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/dataTables.select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/daterangepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/dropzone.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/fullcalendar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/grid.locale-en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/holder.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/html5shiv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery-1.11.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery-2.1.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery-additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery-typeahead.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery-ui.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.bootstrap-duallistbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.colorbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.dataTables.bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.easypiechart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.flot.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.flot.pie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.flot.resize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.gritter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.hotkeys.index.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.inputlimiter.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.jqGrid.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.knob.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.maskedinput.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.mobile.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.nestable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.raty.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.sparkline.index.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.ui.touch-punch.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/markdown.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/prettify.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/spin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/spinbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/tree.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/js/wizard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/swf/flashExport.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/materialMana.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/model.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/template/left.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/template/top.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/erp/pojo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/erp/pojo/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -260,7 +22,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -306,7 +68,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../erp" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/xiameng" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -436,7 +198,7 @@
       <workItem from="1578665705735" duration="104000" />
       <workItem from="1578665835129" duration="2099000" />
       <workItem from="1578668000582" duration="264000" />
-      <workItem from="1578669027479" duration="1188000" />
+      <workItem from="1578669027479" duration="2177000" />
     </task>
     <task id="LOCAL-00001" summary="删除注释">
       <created>1578667096466</created>
@@ -452,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578668144418</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="创建">
+      <created>1578670329500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578670329500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,18 +309,18 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.720@0.0.1280.720" timestamp="1578457008799" />
-    <state x="228" y="0" key="CommitChangelistDialog2" timestamp="1578670182535">
+    <state x="228" y="0" key="CommitChangelistDialog2" timestamp="1578670866627">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="228" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1578670182535" />
-    <state x="100" y="100" width="1080" height="527" key="DiffContextDialog" timestamp="1578669387158">
+    <state x="228" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1578670866627" />
+    <state x="100" y="100" width="1080" height="527" key="DiffContextDialog" timestamp="1578670526815">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="100" y="100" width="1080" height="527" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1578669387158" />
-    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1578669959625">
+    <state x="100" y="100" width="1080" height="527" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1578670526815" />
+    <state x="421" y="104" key="FileChooserDialogImpl" timestamp="1578670554755">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578669959625" />
+    <state x="421" y="104" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1578670554755" />
     <state x="517" y="256" width="270" height="263" key="Github.ShareDialog" timestamp="1578670065808">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -620,22 +389,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="100" y="100" width="1080" height="527" key="VCS.FileHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1578667301624" />
-    <state x="292" y="121" key="Vcs.Push.Dialog.v2" timestamp="1578669439598">
+    <state x="292" y="121" key="Vcs.Push.Dialog.v2" timestamp="1578670528751">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="292" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1578669439598" />
-    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578668029769">
+    <state x="292" y="121" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1578670528751" />
+    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578671233634">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1578668029769" />
+    <state x="439" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1578671233634" />
     <state x="39" y="0" width="746" height="720" key="find.popup" timestamp="1578669427768">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="39" y="0" width="746" height="720" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1578669427768" />
-    <state x="377" y="166" key="git4idea.merge.GitPullDialog" timestamp="1578668046334">
+    <state x="377" y="166" key="git4idea.merge.GitPullDialog" timestamp="1578671259577">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="377" y="166" key="git4idea.merge.GitPullDialog/0.0.1280.720@0.0.1280.720" timestamp="1578668046334" />
+    <state x="377" y="166" key="git4idea.merge.GitPullDialog/0.0.1280.720@0.0.1280.720" timestamp="1578671259577" />
     <state x="407" y="239" key="git4idea.rebase.GitRebaseDialog" timestamp="1578666182721">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

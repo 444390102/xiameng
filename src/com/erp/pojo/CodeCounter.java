@@ -23,4 +23,7 @@ public class CodeCounter {
 		this.cCount = cCount;
 	}
 
+	public static void main(String[] args) {
+
+	}
 }
